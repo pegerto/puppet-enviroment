@@ -1,1 +1,1 @@
-# puppet-enviroment
+# puppet-environment
